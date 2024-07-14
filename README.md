@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akrem Zaghdoudi</h1>
 <h3 align="center">A passionate data scientist from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
+<img align="right" alt="Coding" width="400" height="255" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
+
+
+
+
+
+
 
 - 🌱 I’m currently learning **SQL , Generative AI**
 
