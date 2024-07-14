@@ -1,4 +1,3 @@
-[![MasterHead]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXgyY3E5a2Qxa2N0eXVyZ2FyM292OXhtcTg4anZ2MWs4MDI2ajcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyzew7Py7bnW9DiJJj/200.webp))]
 <h1 align="center">Hi 👋, I'm Akrem Zaghdoudi</h1>
 <h3 align="center">A passionate data scientist from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
